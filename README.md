@@ -1,5 +1,5 @@
 # Simply-AVR-Book
-Simply AVR Book Source
+Simply AVR Book - Arabic - Book Source files
 
 #licence
 
